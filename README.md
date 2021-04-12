@@ -1,4 +1,4 @@
-# PUPCR-dataset
+# PUCPR-dataset
 
 We reannotate the pucpr dataset with bounding box format.
 
